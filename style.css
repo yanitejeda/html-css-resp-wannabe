@@ -78,6 +78,13 @@ img {
     margin: 0;
     padding: 0;
   }
+  .row{
+    width: 100%;
+  }
+  .container{
+    max-width: 920px;
+  }
+  
   #lezioni .row{
     background-color:#F2F2CD ;
     justify-content: center;
